@@ -1,0 +1,22 @@
+{
+  "name": "@sqrtthree/prettier-config",
+  "version": "1.0.0",
+  "description": "An opinionated Prettier config.",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqrthree/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "sqrtthree <imsqrtthree@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sqrthree/prettier-config/issues"
+  },
+  "homepage": "https://github.com/sqrthree/prettier-config#readme"
+}
