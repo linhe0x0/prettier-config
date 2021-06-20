@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/@sqrtthree/prettier-config)](https://www.npmjs.com/package/@sqrtthree/prettier-config)
+
 # prettier-config
 
 My personal Prettier configuration, more details are [prettier.io#sharing-configurations](https://prettier.io/docs/en/configuration.html#sharing-configurations).
