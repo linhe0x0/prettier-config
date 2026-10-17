@@ -1,6 +1,6 @@
 {
   "name": "@linhe0x0/prettier-config",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "An opinionated Prettier config.",
   "main": "index.json",
   "repository": {
